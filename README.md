@@ -42,7 +42,7 @@
 # Achievements
 - Earned **Silver badge (3/5 stars) in Python** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
 - Earned **Silver badge (3/5 stars) in C++** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
-- Qualified GATE (CS) exam organised by Indian Institute of Science (IISc), Bangalore
+- Qualified **GATE (CS)** exam organised by Indian Institute of Science (IISc), Bangalore
 
 # Contact
 - Email: [contact@shubhanshutrip.com](mailto:contact@shubhanshutrip.com)
