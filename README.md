@@ -1,4 +1,4 @@
->[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 24 July 2021)
+>[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 24 August 2021)
 
 # Profiles
 - LinkedIn: [shubhanshutrip](https://www.linkedin.com/in/shubhanshutrip)
