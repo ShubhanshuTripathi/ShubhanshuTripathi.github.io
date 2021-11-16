@@ -3,7 +3,6 @@
 # Profiles
 - LinkedIn: [shubhanshutrip](https://www.linkedin.com/in/shubhanshutrip)
 - Github: [shubhanshutripathi](https://github.com/shubhanshutripathi)
-- HackerRank: [shubhanshu_trip](https://www.hackerrank.com/shubhanshu_trip)
 
 # Skills
 - Python
