@@ -45,8 +45,8 @@
 - Helped **more than 30 people to get Covid Vaccines** using this notifier
 
 # Certifications
-- Completed “**Complete Python Bootcamp**” course from Udemy ([View Certificate](https://www.udemy.com/certificate/UC-8406f3da-58cb-4c48-ae37-acde960790fd))
-- Passed “**Basics of Data Science and Machine Learning**” course from Coding Ninjas ([View Certificate](http://students.codingninjas.com/verify/65b6af5ee928bb1c))
+- Completed “**Complete Python Bootcamp**” course from Udemy ([View Certificate](https://ude.my/UC-8406f3da-58cb-4c48-ae37-acde960790fd))
+- Passed “**Basics of Data Science and Machine Learning**” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
 - Passed “**Object Oriented Programming Using C++**” course from NIIT ([View Certificate](/Documents/ST%20CPP%20Certificate%20(NIIT).pdf))
 
 # Achievements
