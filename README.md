@@ -1,4 +1,4 @@
->[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 16 November 2021)
+>[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 17 November 2021)
 
 # Profiles
 - LinkedIn: [shubhanshutrip](https://www.linkedin.com/in/shubhanshutrip)
@@ -39,7 +39,7 @@
 **Languages:** Python 3, Markdown
 
 **Software:** Jupyter Notebook (Anaconda)
-- Developed a Python notebook to **notify user as soon as desired Covid Vaccine is available** on CoWIN website for booking
+- Developed a Python notebook to **notify user, as soon as desired Covid Vaccine is available** on CoWIN website for booking
 - Implemented **4 dynamic filters** on the Vaccination calendar received as a **JSON response from Co-WIN API**
 - Helped **more than 30 people to get Covid Vaccines** using this notifier
 
