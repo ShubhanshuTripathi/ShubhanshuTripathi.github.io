@@ -47,6 +47,7 @@
 - Completed “**Complete Python Bootcamp**” course from Udemy ([View Certificate](https://ude.my/UC-8406f3da-58cb-4c48-ae37-acde960790fd))
 - Completing “**Introduction to Git and GitHub**” course by **Google** from Coursera ([View Course](https://www.coursera.org/learn/introduction-git-github))
 - Passed “**Basics of Data Science and Machine Learning**” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
+- Passed “Programming in C” course from NIIT ([View Certificate](/Documents/ST C Certificate (NIIT).jpg))
 
 # Achievements
 - Earned **Silver badge (3/5 stars) in Python** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
