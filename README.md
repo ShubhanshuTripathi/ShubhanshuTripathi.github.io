@@ -1,15 +1,16 @@
 >[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 29 November 2021)
 
 # Profiles
-- LinkedIn: [shubhanshutrip](https://www.linkedin.com/in/shubhanshutrip)
-- Github: [shubhanshutripathi](https://github.com/shubhanshutripathi)
+- LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
+- GitHub: [ShubhanshuTripathi](https://github.com/ShubhanshuTripathi)
 
 # Skills
 - Python
-- Git, Github
+- C, C++
 - Data Structures
 - Algorithms
 - Machine Learning
+- Git, GitHub
 - Markdown
 
 # Education
@@ -21,7 +22,7 @@
 
 # Thesis Work
 
-**Title:** Diabetes Prediction using Machine Learning ([View on Github](https://github.com/ShubhanshuTripathi/Diabetes-Prediction))
+**Title:** Diabetes Prediction using Machine Learning ([View on GitHub](https://github.com/ShubhanshuTripathi/Diabetes-Prediction))
 
 **Languages:** Python 3, Markdown
 
@@ -34,7 +35,7 @@
 
 # Project Work
 
-**Title:** CoWIN Vaccine Notifier ([View on Github](https://github.com/ShubhanshuTripathi/CoWIN-Vaccine-Notifier))
+**Title:** CoWIN Vaccine Notifier ([View on GitHub](https://github.com/ShubhanshuTripathi/CoWIN-Vaccine-Notifier))
 
 **Languages:** Python 3, Markdown
 
@@ -45,12 +46,13 @@
 
 # Certifications
 - Completed “**Complete Python Bootcamp**” course from Udemy ([View Certificate](https://ude.my/UC-8406f3da-58cb-4c48-ae37-acde960790fd))
-- Completing “**Introduction to Git and GitHub**” course by **Google** from Coursera ([View Course](https://www.coursera.org/learn/introduction-git-github))
 - Passed “**Basics of Data Science and Machine Learning**” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
-- Passed “Programming in C” course from NIIT ([View Certificate](/Documents/ST C Certificate (NIIT).jpg))
+- Passed "**Object Oriented Programming Using C++**" course from NIIT ([View Certificate](/Documents/ST%20CPP%20Certificate%20(NIIT).pdf))
+- Passed “**Programming in C**” course from NIIT ([View Certificate](/Documents/ST%20C%20Certificate%20(NIIT).pdf))
+- Completing “**Introduction to Git and GitHub**” course by **Google** from Coursera ([View Course](https://www.coursera.org/learn/introduction-git-github))
 
 # Achievements
-- Earned **Silver badge (3/5 stars) in Python** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
+- Earned **Silver badge (3/5 stars) in Python and C++** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
 - Qualified **GATE (CS)** exam organised by Indian Institute of Science (IISc), Bangalore
 
 # Contact
