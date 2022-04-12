@@ -1,17 +1,13 @@
->[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 29 November 2021)
+>[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 12 April 2022)
 
 # Profiles
 - LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
 - GitHub: [ShubhanshuTripathi](https://github.com/ShubhanshuTripathi)
 
-# Skills
-- Python
-- C, C++
-- Data Structures
-- Algorithms
-- Machine Learning
-- Git, GitHub
-- Markdown
+# Professional Experience
+- Profile: Analyst / Software Engineer
+- Organization: [Capgemini](https://www.capgemini.com)
+- Duration: March 2022 - Present
 
 # Education
 **Birla Institute of Technology, Mesra**
@@ -19,6 +15,14 @@
 - Branch: Computer Science and Engineering
 - CGPA: 8.06
 - Duration: July 2018 to July 2020
+
+# Skills
+- Python
+- DBMS, SQL
+- Amazon Web Services (AWS)
+- Machine Learning
+- HTML
+- CSS
 
 # Thesis Work
 
@@ -47,9 +51,6 @@
 # Certifications
 - Completed “**Complete Python Bootcamp**” course from Udemy ([View Certificate](https://ude.my/UC-8406f3da-58cb-4c48-ae37-acde960790fd))
 - Passed “**Basics of Data Science and Machine Learning**” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
-- Passed "**Object Oriented Programming Using C++**" course from NIIT ([View Certificate](/Documents/ST%20CPP%20Certificate%20(NIIT).pdf))
-- Passed “**Programming in C**” course from NIIT ([View Certificate](/Documents/ST%20C%20Certificate%20(NIIT).pdf))
-- Completing “**Introduction to Git and GitHub**” course by **Google** from Coursera ([View Course](https://www.coursera.org/learn/introduction-git-github))
 
 # Achievements
 - Earned **Silver badge (3/5 stars) in Python and C++** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
