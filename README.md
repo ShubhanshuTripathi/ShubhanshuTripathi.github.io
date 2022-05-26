@@ -20,7 +20,8 @@
 - Python
 - DBMS, SQL
 - Amazon Web Services (AWS)
-- Machine Learning
+- Data Science, Machine Learning
+- Markdown
 - HTML
 - CSS
 
@@ -54,8 +55,8 @@
 - Passed “**Basics of Data Science and Machine Learning**” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
 
 # Achievements
-- Earned **Silver badge (3/5 stars) in Python and C++** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
 - Qualified **GATE (CS)** exam organised by Indian Institute of Science (IISc), Bangalore
+- Earned **Silver badge (3/5 stars) in Python** on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
 
 # Contact
 - Email: [contact@shubhanshutrip.com](mailto:contact@shubhanshutrip.com)
