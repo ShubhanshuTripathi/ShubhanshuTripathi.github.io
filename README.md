@@ -1,11 +1,11 @@
->[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 12 April 2022)
+>[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 26 May 2022)
 
 # Profiles
 - LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
 - GitHub: [ShubhanshuTripathi](https://github.com/ShubhanshuTripathi)
 
 # Professional Experience
-- Profile: Analyst / Software Engineer
+- Designation: Analyst (Software Engineer)
 - Organization: [Capgemini](https://www.capgemini.com)
 - Duration: March 2022 - Present
 
@@ -49,6 +49,7 @@
 - Helped **more than 30 people to get Covid Vaccines** using this notifier
 
 # Certifications
+- Passed “**AWS Certified Cloud Practitioner**” certification exam by **Amazon Web Services** ([View Certificate](/Documents/ST%20AWS-CCP%20Certificate.pdf))
 - Completed “**Complete Python Bootcamp**” course from Udemy ([View Certificate](https://ude.my/UC-8406f3da-58cb-4c48-ae37-acde960790fd))
 - Passed “**Basics of Data Science and Machine Learning**” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
 
