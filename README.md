@@ -1,11 +1,11 @@
->[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 26 May 2022)
+<!-- >[View / Download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (updated on: 26 May 2022) -->
 
 # Profiles
 - LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
 - GitHub: [ShubhanshuTripathi](https://github.com/ShubhanshuTripathi)
 
 # Professional Experience
-- Designation: Analyst (Software Engineer)
+- Designation: Software Engineer
 - Organization: [Capgemini](https://www.capgemini.com)
 - Duration: March 2022 - Present
 
