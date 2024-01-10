@@ -22,16 +22,16 @@
 - Implemented pre-load, data quality, and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
 - Implemented change data capture process to store transformed data with SCD Type 2 implementation
-- Loaded data to Azure SQL database and Delta tables, & generate fixed length TXT extracts, with selectively fetched data by joining multiple source tables
+- Loaded data to Azure SQL database and Delta tables, & generated fixed length TXT extracts, with selectively fetched data by joining multiple source tables
 - Implemented dynamic pipeline status email notification functionality using Azure Logic apps and Web activity
 
 **Status and Metadata Reports Generation**
-- Automated status and metadata report file generation of data feeds as per predefined frequencies by creating Python scripts
+- Python based automation for status and metadata report generation of data feeds
 - Extracted metadata properties and row counts dynamically from DAT and TXT data feeds
 
 **Miscellaneous**
-- Reduced ETL python scripts runtime up to 23.8% by optimizing code and fixing bugs
-- Automated Excel macro run by creating Python script to send daily consolidated ETL jobs status report email at scheduled time
+- Optimized ETL python scripts’ average runtime by 23%
+- Automated Excel macro run by creating Python scripts to send daily consolidated ETL jobs status report email at scheduled time
 
 # Education
 **Birla Institute of Technology, Mesra**
