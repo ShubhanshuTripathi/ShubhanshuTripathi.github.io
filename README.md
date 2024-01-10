@@ -71,7 +71,7 @@
 
 # Achievements
 - Finalist (top 10) among 250 teams in i3i 2023, a Capgemini’s internal hackathon for insurance domain
-- Qualified GATE (CS) exam organised by Indian Institute of Science (IISc), Bangalore
+- Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 - Earned Silver badge (3/5 stars) in Python on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
 
 # Contact
