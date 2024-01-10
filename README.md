@@ -30,7 +30,7 @@
 - Extracted metadata properties and row counts dynamically from DAT and TXT data feeds
 
 **Miscellaneous**
-- Optimized ETL python scripts’ average runtime by 23%
+- Optimised ETL python scripts’ average runtime by 23%
 - Automated Excel macro run by creating Python scripts to send daily consolidated ETL jobs status report email at scheduled time
 
 # Education
