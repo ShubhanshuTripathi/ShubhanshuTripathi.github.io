@@ -17,6 +17,7 @@
 - Organization: [Capgemini](https://www.capgemini.com)
 - Duration: March 2022 - Present
 
+### Data Engineering
 **Operational Data Store, Data Hubs, Extracts Generation**
 - Migrated on-prem big data ETL processes to cloud, by creating storage event and tumbling window triggered pipelines in Azure Synapse Analytics using PySpark notebooks
 - Implemented pre-load, data quality, and data control checks
@@ -25,6 +26,7 @@
 - Loaded data to Azure SQL database and Delta tables, & generated fixed length TXT extracts, with selectively fetched data by joining multiple source tables
 - Implemented dynamic pipeline status email notification functionality using Azure Logic apps and Web activity
 
+### Software Engineering
 **Status and Metadata Reports Generation**
 - Dynamic real-time status and metadata tracking using Python
 - Extracted metadata properties and row counts dynamically from DAT and TXT files
