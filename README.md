@@ -26,12 +26,12 @@
 - Implemented dynamic pipeline status email notification functionality using Azure Logic apps and Web activity
 
 **Status and Metadata Reports Generation**
-- Python based automation for status and metadata report generation of data feeds
-- Extracted metadata properties and row counts dynamically from DAT and TXT data feeds
+- Dynamic real-time status and metadata tracking using Python
+- Extracted metadata properties and row counts dynamically from DAT and TXT files
 
 **Miscellaneous**
-- Optimised ETL python scripts’ average runtime by 23%
-- Automated Excel macro run by creating Python scripts to send daily consolidated ETL jobs status report email at scheduled time
+- Optimised Python programs to reduce average runtime by 23%
+- Automated Excel macro run by creating Python scripts, to email daily consolidated status reports
 
 # Education
 **Birla Institute of Technology, Mesra**
