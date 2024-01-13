@@ -1,8 +1,11 @@
 >[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 14-Jan-2024)
 
-# Profiles
-- LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
-- GitHub: [ShubhanshuTripathi](https://github.com/ShubhanshuTripathi)
+# About
+I am currently working as a Senior Software Engineer in Capgemini, with approx. 2 years of experience.\
+During my role as a Data Engineer, I created end-to-end Big data ETL pipelines from scratch using Python, PySpark, and SQL in Azure.\
+During my role as a Software Engineer, I worked on Dynamic real-time status and metadata tracking using Python, & also Optimised Python programs to reduce runtime.\
+I also hold an active "AWS Certified Cloud Practitioner" certificate.\
+I completed my M.Tech. in Computer Science from BIT, Mesra, with thesis focused in Data Science & Machine Learning domain.
 
 # Skills
 - Python, PySpark
@@ -75,6 +78,10 @@
 - Finalist (top 10) among 250 teams in i3i 2023, a Capgemini’s internal hackathon for insurance domain
 - Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 - Earned Silver badge (3/5 stars) in Python on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
+
+# Profiles
+- LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
+- GitHub: [ShubhanshuTripathi](https://github.com/ShubhanshuTripathi)
 
 # Contact
 - Email: [contact@shubhanshutrip.com](mailto:contact@shubhanshutrip.com)
