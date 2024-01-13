@@ -1,4 +1,4 @@
->[View / download latest Resume (last updated on 14-Jan-2024)](/Documents/Shubhanshu%20Tripathi%20Resume.pdf)
+>[View / download latest Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 14-Jan-2024)
 
 # Profiles
 - LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
