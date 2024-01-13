@@ -7,7 +7,7 @@
 # Skills
 - Python, PySpark
 - SQL
-- Azure Synapse Analytics, Amazon Web Services (AWS)
+- Azure, Amazon Web Services (AWS)
 - Data Science, Machine Learning
 - Google Colab, Anaconda, Jupyter Notebook, Visual Studio Code
 - Markdown
