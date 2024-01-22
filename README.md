@@ -5,7 +5,7 @@ I am currently working as a Senior Software Engineer in Capgemini, with approx. 
 During my role as a Data Engineer, I created end-to-end Big data ETL pipelines from scratch using Python, PySpark, and SQL in Azure.\
 During my role as a Software Engineer, I worked on Dynamic real-time status and metadata tracking using Python, & also Optimised Python programs to reduce runtime.\
 I also hold an active "AWS Certified Cloud Practitioner" certificate.\
-I completed my M.Tech. in Computer Science from BIT, Mesra, with thesis focused in Data Science & Machine Learning domain.
+I completed my M.Tech. in Computer Science from BIT, Mesra, with thesis focused in Data Science & Machine Learning domain.\
 I focus on continuously improving and utilizing my skills to work as a solution-finder for individual and organizational growth.
 
 # Skills
