@@ -14,6 +14,7 @@ I focus on continuously improving and utilizing my skills to work as a solution-
 - Azure, Amazon Web Services (AWS)
 - Data Science, Machine Learning
 - Google Colab, Anaconda, Jupyter Notebook, Visual Studio Code
+- Git / GitHub
 - Markdown
 
 # Professional Experience
