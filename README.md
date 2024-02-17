@@ -1,12 +1,11 @@
 >[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 14-Jan-2024)
 
 # About
-I am currently working as a Senior Software Engineer in Capgemini, with approx. 2 years of experience.\
-During my role as a Data Engineer, I created end-to-end Big data ETL pipelines from scratch using Python, PySpark, and SQL in Azure.\
-During my role as a Software Engineer, I worked on Dynamic real-time status and metadata tracking using Python, & also Optimised Python programs to reduce runtime.\
-I also hold an active "AWS Certified Cloud Practitioner" certificate.\
-I completed my M.Tech. in Computer Science from BIT, Mesra, with thesis focused in Data Science & Machine Learning domain.\
-I focus on continuously improving and utilizing my skills to work as a solution-finder for individual and organizational growth.
+As a Senior Software Engineer at Capgemini, I create end-to-end big data ETL pipelines using Python, PySpark, SQL, and Azure. I migrated on-prem processes to cloud, implemented data quality and control checks, and performed data cleaning and transformations. I also worked on dynamic real-time status and metadata tracking using Python, and optimized Python programs to reduce average runtime by 23%.\
+
+I hold an active "AWS Certified Cloud Practitioner" certificate, and I have a strong background in data science and machine learning. I also completed my M.Tech. in Computer Science and Engineering from BIT, Mesra, with a thesis focused on this domain.\
+
+I am passionate about finding solutions for individual and organizational growth, and I focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
 
 # Skills
 - Python, PySpark
