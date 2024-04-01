@@ -1,4 +1,4 @@
->[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 01-Apr-2024)
+>[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 02-Apr-2024)
 
 # About
 As a Senior Software Engineer at Capgemini, I create end-to-end big data ETL pipelines in Azure using Python, PySpark, SQL, and Azure services. I migrated on-prem processes to cloud, implemented data quality and control checks, and performed data cleaning and transformations. I also worked on dynamic real-time status and metadata tracking using Python, and optimized Python programs to reduce average runtime by 23%.
@@ -8,14 +8,14 @@ I hold an active "AWS Certified Cloud Practitioner" certificate, and I have a st
 I am passionate about finding solutions for individual and organizational growth, and I focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
 
 # Skills
-- Python, PySpark
+- Python
 - SQL
-- ETL (Extract, Transform, Load), Big Data
+- PySpark (Apache Spark), Big data
+- ETL (Extract, Transform, Load)
 - Microsoft Azure (Azure Synapse Analytics, Azure Databricks, Azure Data Factory, Azur Data Lake, Azure SQL, Azure Logic Apps), Amazon Web Services (AWS)
-- Data Science, Machine Learning
 - Git / GitHub
+- Data Science, Machine Learning
 - Microsoft Excel
-- Markdown
 
 # Professional Experience
 - Designations: Senior Software Engineer, Software Engineer
@@ -27,9 +27,9 @@ I am passionate about finding solutions for individual and organizational growth
 - Migrated on-prem big data ETL processes to cloud, by creating storage event and tumbling window triggered pipelines in Azure Synapse Analytics using PySpark notebooks
 - Implemented pre-load, data quality, and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
-- Implemented change data capture process to store transformed data with SCD Type 2 implementation
-- Loaded data to Azure SQL database and Delta tables, & generated fixed length TXT extracts, with selectively fetched data by joining multiple source tables
-- Implemented dynamic pipeline status email notification functionality using Azure Logic apps and Web activity
+- Implemented change data capture (CDC) process to store transformed data with SCD Type 2 implementation
+- Loaded data to Azure SQL Database and Delta tables, & generated CSV and TXT extracts by creating dynamic pipelines to selectively fetch data by joining multiple source tables
+- Implemented dynamic pipeline status email notification functionality using Azure Logic Apps and Web Activity
 
 ### Software Engineering
 **Status and Metadata Reports Generation**
