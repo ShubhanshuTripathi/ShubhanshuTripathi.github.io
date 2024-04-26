@@ -1,4 +1,4 @@
->[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 02-Apr-2024)
+>[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 26-Apr-2024)
 
 # About
 As a Senior Software Engineer at Capgemini, I create end-to-end big data ETL pipelines in Azure using Python, PySpark, SQL, and Azure services. I migrated on-prem processes to cloud, implemented data quality and control checks, and performed data cleaning and transformations. I also worked on dynamic real-time status and metadata tracking using Python, and optimized Python programs to reduce average runtime by 23%.
@@ -10,9 +10,9 @@ I am passionate about finding solutions for individual and organizational growth
 # Skills
 - Python
 - SQL
-- PySpark (Apache Spark), Big data
-- ETL (Extract, Transform, Load)
-- Microsoft Azure (Azure Synapse Analytics, Azure Databricks, Azure Data Factory, Azur Data Lake, Azure SQL, Azure Logic Apps), Amazon Web Services (AWS)
+- PySpark _(Apache Spark)_, Big data
+- ETL _(Extract, Transform, Load)_
+- Microsoft Azure _(Azure Synapse Analytics, Azure Databricks, Azure Data Factory, Azur Data Lake, Azure SQL, Azure Logic Apps)_, Amazon Web Services _(AWS)_
 - Git / GitHub
 - Data Science, Machine Learning
 - Microsoft Excel
@@ -77,9 +77,8 @@ I am passionate about finding solutions for individual and organizational growth
 - Passed “Basics of Data Science and Machine Learning” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
 
 # Achievements
-- Finalist (top 10) among 250 teams in i3i 2023, a Capgemini’s internal hackathon for insurance domain
+- Achieved 3<sup>rd</sup> rank among 250 teams in i3i 2023, a Capgemini’s internal hackathon for insurance domain
 - Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
-- Earned Silver badge (3/5 stars) in Python on HackerRank ([Visit Profile](https://www.hackerrank.com/shubhanshu_trip))
 
 # Profiles
 - LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
@@ -87,4 +86,4 @@ I am passionate about finding solutions for individual and organizational growth
 
 # Contact
 - Email: [contact@shubhanshutrip.com](mailto:contact@shubhanshutrip.com)
-- LinkedIn: [shubhanshutrip](https://www.linkedin.com/in/shubhanshutrip)
+- LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/shubhanshutrip)
