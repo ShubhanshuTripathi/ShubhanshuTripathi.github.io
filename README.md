@@ -15,7 +15,6 @@ I am passionate about finding solutions for individual and organizational growth
 - Microsoft Azure _(Azure Synapse Analytics, Azure Databricks, Azure Data Factory, Azur Data Lake, Azure SQL, Azure Logic Apps)_, Amazon Web Services _(AWS)_
 - Git / GitHub
 - Data Science, Machine Learning
-- Microsoft Excel
 
 # Professional Experience
 - Designations: Senior Software Engineer, Software Engineer
