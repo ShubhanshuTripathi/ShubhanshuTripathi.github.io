@@ -1,4 +1,4 @@
->[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 26-Apr-2024)
+>[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 19-May-2024)
 
 # About
 As a Senior Software Engineer at Capgemini, I create end-to-end big data ETL pipelines in Azure using Python, PySpark, SQL, and Azure services. I migrated on-prem processes to cloud, implemented data quality and control checks, and performed data cleaning and transformations. I also worked on dynamic real-time status and metadata tracking using Python, and optimized Python programs to reduce average runtime by 23%.
@@ -23,7 +23,7 @@ I am passionate about finding solutions for individual and organizational growth
 
 ### Data Engineering
 **Operational Data Store, Data Hubs, Extracts Generation**
-- Migrated on-prem big data ETL processes to cloud, by creating storage event and tumbling window triggered pipelines in Azure Synapse Analytics using PySpark notebooks
+- Migrated on-prem big data ETL processes to cloud, by creating storage event and schedule triggered pipelines in Azure Synapse Analytics using PySpark notebooks
 - Implemented pre-load, data quality, and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
 - Implemented change data capture (CDC) process to store transformed data with SCD Type 2 implementation
@@ -76,7 +76,7 @@ I am passionate about finding solutions for individual and organizational growth
 - Passed “Basics of Data Science and Machine Learning” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
 
 # Achievements
-- Achieved 3<sup>rd</sup> rank among 250 teams in i3i 2023, a Capgemini’s internal hackathon for insurance domain
+- Achieved 2<sup>nd</sup> runner up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain
 - Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 
 # Profiles
