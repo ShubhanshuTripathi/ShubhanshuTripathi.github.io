@@ -12,9 +12,14 @@ I am passionate about finding solutions for individual and organizational growth
 - SQL
 - PySpark _(Apache Spark)_, Big data
 - ETL _(Extract, Transform, Load)_
-- Microsoft Azure _(Azure Synapse Analytics, Azure Databricks, Azure Data Factory, Azur Data Lake, Azure SQL, Azure Logic Apps)_, Amazon Web Services _(AWS)_
+- Microsoft Azure _(Synapse Analytics, Databricks, Data Factory, Data Lake Storage, SQL Database, Logic Apps)_, Amazon Web Services _(AWS)_
 - Git / GitHub
 - Data Science, Machine Learning
+
+# Certifications
+- Passed “Microsoft Certified: Azure Data Engineer Associate” (DP-203) certification exam of Microsoft ([View Certificate](https://learn.microsoft.com/api/credentials/share/en-in/ShubhanshuTrip/54E1195F6A581B3?sharingId=900DD26B4187729E))
+- Passed “AWS Certified Cloud Practitioner” (CLF-C02 / CLF-C01) certification exam of Amazon Web Services ([View Certificate](/Documents/ST%20AWS-CCP%20Certificate.pdf))
+- Passed “Basics of Data Science and Machine Learning” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
 
 # Professional Experience
 - Designations: Senior Software Engineer, Software Engineer
@@ -22,13 +27,16 @@ I am passionate about finding solutions for individual and organizational growth
 - Duration: March 2022 - Present
 
 ### Data Engineering
-**Operational Data Store, Data Hubs, Extracts Generation**
-- Migrated on-prem big data ETL processes to cloud, by creating storage event and schedule triggered pipelines in Azure Synapse Analytics using PySpark notebooks
+**'Creation of Data Lake, Operational Data Store, Data Hub and Data Marts from the scratch' & 'Views and Extracts Generation'**
+- Migrated on-prem big data ETL processes to cloud, by creating storage event and schedule triggered pipelines with medallion architecture in Azure using PySpark notebooks
 - Implemented pre-load, data quality, and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
 - Implemented change data capture (CDC) process to store transformed data with SCD Type 2 implementation
-- Loaded data to Azure SQL Database and Delta tables, & generated CSV and TXT extracts by creating dynamic pipelines to selectively fetch data by joining multiple source tables
+- Created Data Marts by creating dynamic pipelines to selectively fetch data by joining multiple source tables and apply transformations, to generated PII masked views and extracts as per business requirements
 - Implemented dynamic pipeline status email notification functionality using Azure Logic Apps and Web Activity
+- Optimized pipelines by applying conditional activity runs to reduce average runtime by 38%
+- Identified and implemented automation strategies for manual and repetetive tasks (like SQL queries creation) to save team's time and efforts
+- Identified and covered multiple edge cases to create a more fault tolerant system
 
 ### Software Engineering
 **Status and Metadata Reports Generation**
@@ -70,13 +78,8 @@ I am passionate about finding solutions for individual and organizational growth
 - Implemented 4 dynamic filters on the Vaccination calendar received as a JSON response from Co-WIN API
 - Helped more than 30 people to get Covid Vaccines using this notifier
 
-# Certifications
-- Passed “AWS Certified Cloud Practitioner” certification exam by Amazon Web Services ([View Certificate](/Documents/ST%20AWS-CCP%20Certificate.pdf))
-- Completed “Complete Python Bootcamp” course from Udemy ([View Certificate](https://ude.my/UC-8406f3da-58cb-4c48-ae37-acde960790fd))
-- Passed “Basics of Data Science and Machine Learning” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
-
 # Achievements
-- Achieved 2<sup>nd</sup> runner up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain
+- Achieved 2<sup>nd</sup> runner up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain [View Certificate](https://www.linkedin.com/in/ShubhanshuTrip)
 - Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 
 # Profiles
