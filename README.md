@@ -1,11 +1,11 @@
->[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 25-May-2024)
+>[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 30-May-2024)
 
 # About
-As an Azure Data Engineer at Capgemini, I create end-to-end big data ETL pipelines with  medallion architecture in Azure using Python, SQL, PySpark and Azure services. I migrated on-prem processes to cloud, implemented data quality and control checks, performed data cleaning and transformations, and created PII masked views and extracts as per business use cases. I also automated manual and repetetive tasks, optimized Python programs to reduce average runtime by 23%, and worked on dynamic real-time status and metadata tracking using Python.
+As an Azure Data Engineer at Capgemini, I create end-to-end big data ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented data quality and control checks, performed data cleaning and transformations, and created PII masked views and extracts as per business requirements. I also automated manual and repetetive tasks, optimized pipelines and Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking using Python.
 
-I hold active "Microsoft Certified: Azure Data Engineer Associate" (DP-203) and "AWS Certified Cloud Practitioner" (CLF-C02 / CLF-C01) certificates, and I have a strong background in data science and machine learning. I also completed my M.Tech. in Computer Science and Engineering from BIT, Mesra, with a thesis focused on this domain.
+I hold active "Microsoft Certified: Azure Data Engineer Associate" (DP-203) and "AWS Certified Cloud Practitioner" (CLF-C02 / CLF-C01) certificates, and I have a strong background in Data Science and Machine Learning. I also completed my M.Tech. in Computer Science and Engineering from BIT, Mesra, with a thesis focused on this domain.
 
-I am passionate about finding solutions for individual and organizational growth, and I focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
+I am passionate about finding solutions for individual and organizational growth, and focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
 
 # Skills
 - Python
@@ -27,12 +27,12 @@ I am passionate about finding solutions for individual and organizational growth
 - Duration: March 2022 - Present
 
 ### Data Engineering
-**'Creation of Data Lake, Operational Data Store, Data Hub and Data Marts from the scratch' & 'Views and Extracts Generation'**
-- Migrated on-prem big data ETL processes to cloud, by creating storage event and schedule triggered pipelines with medallion architecture in Azure using PySpark notebooks
+**'End-to-end development of Operational Data Store, Data Hub, Data Marts and Data Lakes' & 'Views and Extracts Generation'**
+- Migrated on-prem big data ETL processes to cloud, by creating storage event and schedule triggered pipelines with medallion architecture in Azure using Python, SQL and PySpark
 - Implemented pre-load, data quality, and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
 - Implemented change data capture (CDC) process to store transformed data with SCD Type 2 implementation
-- Created Data Marts by creating dynamic pipelines to selectively fetch data by joining multiple source tables and apply transformations, to generated PII masked views and extracts as per business requirements
+- Developed Data Marts by creating dynamic pipelines to selectively fetch data by joining multiple source tables and apply transformations, to generated PII masked views and extracts as per business requirements
 - Implemented dynamic pipeline status email notification functionality using Azure Logic Apps and Web Activity
 - Optimized pipelines by applying conditional activity runs to reduce average runtime by 38%
 - Identified and implemented automation strategies for manual and repetetive tasks (like SQL queries creation) to save team's time and efforts
