@@ -1,4 +1,4 @@
->[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 19-May-2024)
+>[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 25-May-2024)
 
 # About
 As an Azure Data Engineer at Capgemini, I create end-to-end big data ETL pipelines with  medallion architecture in Azure using Python, SQL, PySpark and Azure services. I migrated on-prem processes to cloud, implemented data quality and control checks, performed data cleaning and transformations, and created PII masked views and extracts as per business use cases. I also automated manual and repetetive tasks, optimized Python programs to reduce average runtime by 23%, and worked on dynamic real-time status and metadata tracking using Python.
@@ -79,7 +79,7 @@ I am passionate about finding solutions for individual and organizational growth
 - Helped more than 30 people to get Covid Vaccines using this notifier
 
 # Achievements
-- Achieved 2<sup>nd</sup> runner up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain [View Certificate](https://www.linkedin.com/in/ShubhanshuTrip)
+- Achieved 2<sup>nd</sup> runner up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain ([View Certificate](/Documents/ST%20i3i%20Certificate.pdf))
 - Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 
 # Profiles
