@@ -1,9 +1,10 @@
->[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 15-June-2024)
+>[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 20-June-2024)
 
 # About
-As an Azure Data Engineer at Capgemini, I create end-to-end big data ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented data quality and control checks, performed data cleaning and transformations, and created PII masked views and extracts as per business requirements. I also automated manual and repetetive tasks, optimized pipelines and Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking using Python.
+As an Azure Data Engineer at Capgemini, I create end-to-end big data  ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented data quality and control checks, performed data cleaning and transformations, and created PII-masked views and extracts as per business requirements. I also automated manual and repetitive tasks, optimized pipelines and  Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking using Python.
 
-I hold active "Microsoft Certified: Azure Data Engineer Associate" (DP-203) and "AWS Certified Cloud Practitioner" (CLF-C02 / CLF-C01) certificates, and have a strong background in Data Science and Machine Learning. I also completed my M.Tech. in Computer Science and Engineering from BIT, Mesra, with a thesis focused on this domain.
+
+I hold active “Microsoft Certified: Azure Data Engineer Associate”  (DP-203) and “AWS Certified Cloud Practitioner” (CLF-C02 / CLF-C01)  certificates, and have a strong background in Data Science and Machine  Learning. I also completed my M.Tech. in Computer Science and  Engineering from BIT, Mesra, with a thesis focused on this domain.
 
 I am passionate about finding solutions for individual and organizational growth, and focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
 
@@ -22,6 +23,7 @@ I am passionate about finding solutions for individual and organizational growth
 - Passed “Basics of Data Science and Machine Learning” course from Coding Ninjas ([View Certificate](https://students.codingninjas.com/verify/65b6af5ee928bb1c))
 
 # Professional Experience
+- Current Role: Azure Data Engineer
 - Designations: Senior Software Engineer, Software Engineer
 - Organization: [Capgemini](https://www.capgemini.com)
 - Duration: March 2022 - Present
@@ -32,11 +34,11 @@ I am passionate about finding solutions for individual and organizational growth
 - Implemented pre-load, data quality, and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
 - Implemented change data capture (CDC) process to store transformed data with SCD Type 2 implementation
-- Developed Data Marts by creating dynamic pipelines to selectively fetch data by joining multiple source tables and apply transformations, to generated PII masked views and extracts as per business requirements
+- Developed Data Marts by creating dynamic pipelines to selectively fetch data by joining multiple source tables and apply transformations, to generate PII-masked views and extracts as per business requirements
 - Implemented dynamic pipeline status email notification functionality using Azure Logic Apps and Web Activity
-- Optimized pipelines by applying conditional activity runs to reduce average runtime by 38%
-- Identified and implemented automation strategies for manual and repetetive tasks (like SQL queries creation) to save team's time and efforts
-- Identified and covered multiple edge cases to create a more fault tolerant system
+- Optimized pipelines by applying conditional activity executions to reduce average runtime by 38%
+- Identified and implemented automation strategies for manual and repetitive tasks (like SQL queries creation) to save team’s time and efforts
+- Identified and covered multiple edge cases to create a more fault-tolerant system
 
 ### Software Engineering
 **Status and Metadata Reports Generation**
