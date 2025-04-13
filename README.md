@@ -55,7 +55,7 @@ I am passionate about finding solutions for individual and organizational growth
 
 **Title:** Diabetes Prediction using Machine Learning ([View on GitHub](https://github.com/ShubhanshuTripathi/Diabetes-Prediction))
 
-**Languages:** Python 3, Markdown
+**Languages:** Python (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn / sklearn), Markdown
 
 **Software:** Jupyter Notebook (Anaconda)
 - Achieved up to 81.6% accuracy in Diabetes prediction on Pima Indians Diabetes Database with Random Forest classifier
@@ -68,7 +68,7 @@ I am passionate about finding solutions for individual and organizational growth
 
 **Title:** CoWIN Vaccine Notifier ([View on GitHub](https://github.com/ShubhanshuTripathi/CoWIN-Vaccine-Notifier))
 
-**Languages:** Python 3, Markdown
+**Languages:** Python, Markdown
 
 **Software:** Jupyter Notebook (Anaconda)
 - Developed a real-time Covid vaccine availability tracker using Python, to notify the user as soon as any desired vaccine is available on the CoWIN website for booking
