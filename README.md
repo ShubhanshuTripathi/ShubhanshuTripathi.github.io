@@ -8,13 +8,10 @@ I hold active “Microsoft Certified: Azure Data Engineer Associate” (DP-203) 
 I am passionate about finding solutions for individual and organizational growth, and focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
 
 # Skills
-- Python
-- SQL _(Microsoft SQL Server, MySQL)_
-- PySpark _(Apache Spark)_, Big Data
-- ETL _(Extract, Transform, Load)_ development
-- Azure _(Synapse Analytics, Databricks, Data Factory, Data Lake Storage, SQL Database, Logic Apps)_, Amazon Web Services _(AWS)_
-- Git / GitHub
-- Data Science, Machine Learning
+- **Programming Languages:** SQL, Python (PySpark)
+- **Azure Services:** Synapse Analytics, Databricks, Data Factory, SQL Database, Data Lake Storage, Logic Apps
+- **Big Data Engineering:** Apache Spark, ETL Development
+- **Databases:** Azure SQL Database, Microsoft SQL Server, MySQL, Oracle, PostgreSQL, SQLite
 
 # Certifications
 - Passed “Microsoft Certified: Azure Data Engineer Associate” (DP-203) certification exam of Microsoft ([View Certificate](https://learn.microsoft.com/api/credentials/share/en-in/ShubhanshuTrip/54E1195F6A581B3?sharingId=900DD26B4187729E))
