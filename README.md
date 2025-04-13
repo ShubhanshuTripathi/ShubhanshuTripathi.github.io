@@ -28,11 +28,11 @@ I am passionate about finding solutions for individual and organizational growth
 
 ### Data Engineering
 **End-to-end development of Enterprise Data Hub, Operational Data Store, Data Marts and Data Lakes with Views and Extracts generation**
-- Migrated on-prem big data ETL processes to the cloud, by creating storage event and schedule triggered pipelines with medallion architecture in Azure using Python, SQL and PySpark
+- Migrated on-prem big data ETL processes to cloud, by creating storage event and schedule triggered pipelines with medallion architecture in Azure using Python, SQL and PySpark
 - Implemented change data capture (CDC) process to store transformed data with SCD Type 2 implementation
 - Improved reusability by developing metadata-driven architecture to create dynamic pipelines, which selectively fetch data by joining required source tables and applying transformations, to generate PII-masked views and extracts as per business requirements
 - Optimized pipelines by applying conditional activity executions to reduce average runtime by 38%
-- Identified and automated the manual and repetitive tasks (like SQL query creation) to save the team’s time and efforts
+- Identified and automated the manual and repetitive tasks (like SQL query creation) to save team’s time and efforts
 - Implemented pre-load, data quality and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
 - Implemented status email notification functionality in pipelines using Azure Logic Apps and Web Activities
