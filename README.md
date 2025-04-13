@@ -1,9 +1,9 @@
 >[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 28-Jan-2025)
 
 # About
-As an Azure Data Engineer at Capgemini, I create end-to-end big data  ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented data quality and control checks, performed data cleaning and transformations, and created PII-masked views and extracts as per business requirements. I also automated the manual and repetitive tasks, optimized pipelines and  Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking using Python.
+As an Azure Data Engineer at Capgemini, I develop end-to-end data engineering solutions like EDH, ODS, Data Marts and Data Lakes. I am experienced in creating big data ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented CDC process with SCD Type 2, improved pipelines' reusability by developing metadata-driven architecture, performed data cleaning and transformations, and created PII-masked views and extracts as per business requirements. I also automated manual and repetitive tasks, optimized pipelines and Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking of ETL job extracts using Python.
 
-I hold active “Microsoft Certified: Azure Data Engineer Associate”  (DP-203) and “AWS Certified Cloud Practitioner” (CLF-C02 / CLF-C01)  certificates, and have a strong background in Data Science and Machine  Learning. I also completed my M.Tech. in Computer Science and  Engineering from BIT, Mesra, with a thesis focused on this domain.
+I hold active “Microsoft Certified: Azure Data Engineer Associate” (DP-203) and “AWS Certified Cloud Practitioner” (CLF-C02) certificates, and have a strong background in Data Science and Machine Learning. I also completed my M.Tech. (CSE) from BIT, Mesra, with a thesis focused on this domain.
 
 I am passionate about finding solutions for individual and organizational growth, and focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
 
