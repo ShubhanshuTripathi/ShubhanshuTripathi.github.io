@@ -76,8 +76,8 @@ I am passionate about finding solutions for individual and organizational growth
 - Helped more than 30 people to get Covid vaccines on time
 
 # Achievements
-- Achieved 2<sup>nd</sup> runner-up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain ([View Certificate](/Documents/ST%20i3i%20Certificate.pdf))
 - Earned Gold badge (5 Stars) for SQL on HackerRank ([Visit Profile](https://www.hackerrank.com/profile/ShubhanshuTrip))
+- Achieved 2<sup>nd</sup> runner-up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain ([View Certificate](/Documents/ST%20i3i%20Certificate.pdf))
 - Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 
 # Profiles
