@@ -1,7 +1,7 @@
 >[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 28-Jan-2025)
 
 # About
-As an Azure Data Engineer at Capgemini, I develop end-to-end data engineering solutions like EDH, ODS, Data Marts and Data Lakes. I am experienced in creating big data ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented CDC process with SCD Type 2, improved pipelines' reusability by developing metadata-driven architecture, performed data cleaning and transformations, and created PII-masked views and extracts as per business requirements. I also automated manual and repetitive tasks, optimized pipelines and Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking of ETL job extracts using Python.
+As an Azure Data Engineer at Capgemini, I develop end-to-end data engineering solutions like EDH, ODS, Data Marts and Data Lakes. I am experienced in creating big data ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented CDC process with SCD Type 2, improved pipelines' reusability by developing metadata-driven architecture, performed data cleaning and transformations, and created PII-masked views and extracts as per business requirements. I also automated manual and repetitive tasks like creating SQL queries and directory structures, optimized pipelines and Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking of ETL job extracts using Python.
 
 I hold active “Microsoft Certified: Azure Data Engineer Associate” (DP-203) and “AWS Certified Cloud Practitioner” (CLF-C02) certificates, and have a strong background in Data Science and Machine Learning. I also completed my M.Tech. (CSE) from BIT, Mesra, with a thesis focused on this domain.
 
@@ -29,11 +29,11 @@ I am passionate about finding solutions for individual and organizational growth
 - Implemented change data capture (CDC) process to store transformed data with SCD Type 2 implementation
 - Improved reusability by developing metadata-driven architecture to create dynamic pipelines, which selectively fetch data by joining required source tables and applying transformations, to generate PII-masked views and extracts as per business requirements
 - Optimized pipelines by applying conditional activity executions to reduce average runtime by 38%
-- Identified and automated the manual and repetitive tasks (like SQL query creation) to save team’s time and efforts
+- Identified and automated the manual and repetitive tasks, by developing dynamic Python scripts to Generate SQL queries and Create directory structures
 - Implemented pre-load, data quality and data control checks
 - Performed data cleaning and applied transformations on parquet and CSV big data feeds
 - Implemented status email notification functionality in pipelines using Azure Logic Apps and Web Activities
-- Identified and covered multiple edge cases to create a more fault-tolerant system
+- Improved fault tolerance by identifying and covering multiple edge cases
 
 ### Software Engineering
 **Status and Metadata Reports Generation**
@@ -77,8 +77,8 @@ I am passionate about finding solutions for individual and organizational growth
 
 # Achievements
 - Achieved 2<sup>nd</sup> runner-up position among 215 teams in i3i 2023, a Capgemini hackathon for insurance domain ([View Certificate](/Documents/ST%20i3i%20Certificate.pdf))
-- Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 - Earned Gold badge (5 Stars) for SQL on HackerRank ([Visit Profile](https://www.hackerrank.com/profile/ShubhanshuTrip))
+- Secured rank 6,888 among 1,08,495 candidates in GATE (CS) exam organised by 'Indian Institute of Science (IISc), Bangalore'
 
 # Profiles
 - LinkedIn: [ShubhanshuTrip](https://www.linkedin.com/in/ShubhanshuTrip)
