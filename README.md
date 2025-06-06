@@ -1,4 +1,4 @@
->[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 02-May-2025)
+>[View / download Resume](/Documents/Shubhanshu%20Tripathi%20Resume.pdf) (last updated on 06-June-2025)
 
 # About
 As an Azure Data Engineer at Capgemini, I develop end-to-end data engineering solutions like EDH, ODS, Data Marts and Data Lakes. I am experienced in creating big data ETL pipelines with medallion architecture in Azure using Python, SQL and PySpark. I migrated on-prem processes to cloud, implemented CDC process with SCD Type 2, improved pipelines' reusability by developing metadata-driven architecture, performed data cleaning and transformations, and created PII-masked views and extracts as per business requirements. I also automated manual and repetitive tasks like creating SQL queries and directory structures, optimized pipelines and Python programs to reduce average runtime, and worked on dynamic real-time status and metadata tracking of ETL job extracts using Python.
@@ -8,7 +8,7 @@ I hold active “Microsoft Certified: Azure Data Engineer Associate” (DP-203) 
 I am passionate about finding solutions for individual and organizational growth, and focus on continuously improving and utilizing my skills. I collaborate with my team and clients to deliver high-quality results and value. I am always eager to learn new technologies and tools, and to apply them to solve real-world problems.
 
 # Skills
-- **Programming Languages:** SQL, Python (PySpark)
+- **Programming Languages:** SQL, Python, PySpark
 - **Azure Services:** Synapse Analytics, Databricks, Data Factory, SQL Database, Data Lake Storage, Logic Apps
 - **Big Data Engineering:** Apache Spark, ETL Development
 - **Databases:** Azure SQL Database, Microsoft SQL Server, MySQL, Oracle, PostgreSQL, SQLite
